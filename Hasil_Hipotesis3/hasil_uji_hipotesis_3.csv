@@ -1,0 +1,2 @@
+hipotesis,jumlah_citra,spearman_rho,p_value,alpha,kekuatan_hubungan,arah_hubungan,keputusan,kesimpulan
+Hubungan mean intensity dengan rasio luas area vena,136,-0.118706310178881,0.16868679554793187,0.05,sangat lemah,negatif,Gagal menolak H0,Belum cukup bukti untuk menyatakan adanya hubungan monotonik yang signifikan secara statistik antara mean intensity dan rasio luas area vena.

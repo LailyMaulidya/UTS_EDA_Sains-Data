@@ -1,0 +1,13 @@
+metric,value
+Jumlah image,136.0
+Jumlah label,136.0
+Pasangan,136.0
+Image tanpa label,0.0
+Label kosong,0.0
+Mask kosong,0.0
+Mean ratio,1.4096877154181986
+Median ratio,1.0108642578125
+Mean mask area,5774.080882352941
+Median mask area,4140.5
+Mean bbox width,85.13970588235294
+Mean circularity,0.7836105327311713

@@ -1,0 +1,3 @@
+Kondisi,Jumlah citra,Welch F-statistic,Welch p-value,N Spearman,Spearman rho,Spearman p-value
+Seluruh citra,2340,1103.8711647196371,0.0,2340,0.09490955518370323,4.244357394491743e-06
+Tanpa kandidat outlier,2339,1104.7367372097142,0.0,2339,0.09543479332150206,3.770969951417534e-06

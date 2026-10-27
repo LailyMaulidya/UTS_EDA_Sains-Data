@@ -1,0 +1,2 @@
+﻿metode,jumlah_citra,jumlah_dataset,statistik_F,p_value,alpha,keputusan,interpretasi
+Welch ANOVA,2340,26,1103.8711647196371,0.0,0.05,Tolak H0,Terdapat bukti statistik bahwa setidaknya satu dataset memiliki rata-rata intensitas berbeda.

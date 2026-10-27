@@ -1,0 +1,2 @@
+﻿metode,jumlah_citra,koefisien_rho,p_value,alpha,keputusan,interpretasi
+Korelasi Spearman,2340,0.09490955518370323,4.244357394491743e-06,0.05,Tolak H0,Terdapat hubungan monotonik yang signifikan antara resolusi citra dan mean intensity.
